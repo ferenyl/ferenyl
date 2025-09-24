@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm ferenyl 👋
 
-<!--
-**ferenyl/ferenyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & Hobbyist Maker**  
+Specializing in .NET and building solutions that make life easier—both at work and at home.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Primary:** .NET / C#
+- Also tinkering with home automation, APIs, and system tooling
+
+---
+
+### 📦 Selected Projects
+- [SwedishTestSsn](https://github.com/ferenyl/SwedishTestSsn) – Swedish SSN validation and testing tools
+- [swedish_test_ssn](https://github.com/ferenyl/swedish_test_ssn) – Additional Swedish SSN utilities
+- [homeassistant_addons](https://github.com/ferenyl/homeassistant_addons) – Custom add-ons for Home Assistant
+- [Teams.ThirdPartyAppApi](https://github.com/ferenyl/Teams.ThirdPartyAppApi) – API integrations for Teams third-party apps
+
+---
+
+> “Building quietly, learning constantly.”
+
+---
+
+<!-- Minimal contact: -->
+_If you’d like to reach out, send me an email or feel free to open an issue on one of my repositories if you need help._
