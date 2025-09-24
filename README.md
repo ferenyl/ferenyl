@@ -12,10 +12,10 @@ Specializing in .NET and building solutions that make life easier—both at work
 ---
 
 ### 📦 Selected Projects
-- [SwedishTestSsn](https://github.com/ferenyl/SwedishTestSsn) – Swedish SSN validation and testing tools
-- [swedish_test_ssn](https://github.com/ferenyl/swedish_test_ssn) – Additional Swedish SSN utilities
+- [SwedishTestSsn](https://github.com/ferenyl/SwedishTestSsn) – Get swedish test ssn (Dotnet)
+- [swedish_test_ssn](https://github.com/ferenyl/swedish_test_ssn) – Get swedish test ssn (rust)
 - [homeassistant_addons](https://github.com/ferenyl/homeassistant_addons) – Custom add-ons for Home Assistant
-- [Teams.ThirdPartyAppApi](https://github.com/ferenyl/Teams.ThirdPartyAppApi) – API integrations for Teams third-party apps
+- [Teams.ThirdPartyAppApi](https://github.com/ferenyl/Teams.ThirdPartyAppApi) – API integrations for Teams third-party apps (Dotnet)
 
 ---
 
