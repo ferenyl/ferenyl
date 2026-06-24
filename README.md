@@ -18,6 +18,7 @@ Specializing in .NET and building solutions that make life easier—both at work
 - [homeassistant-integration-goxlr-utility)](https://github.com/ferenyl/homeassistant-integration-goxlr-utility) - integration for goxlrutil in homeassistant
 - [goxlrutil api wrapper](https://github.com/ferenyl/goxlrutil_api)
 - [Teams.ThirdPartyAppApi](https://github.com/ferenyl/Teams.ThirdPartyAppApi) – API integrations for Teams third-party apps (Dotnet)
+- [LittleHelpers](https://github.com/ferenyl/LittleHelpers) - a projekt to get your kids to help with chores. simple gamification 
 
 ---
 
