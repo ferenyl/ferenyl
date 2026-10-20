@@ -21,7 +21,9 @@ Specializing in .NET and building solutions that make life easier—both at work
 - [LittleHelpers](https://github.com/ferenyl/LittleHelpers) - a projekt to get your kids to help with chores. simple gamification
 - [azuredevopstui](https://github.com/ferenyl/azuredevopstui) - a tui for azure devops
 - [simplepackageinstaller](https://github.com/ferenyl/simplepackageinstaller) - tui installer for arch packages.
-
+- [claudeplugins](https://github.com/ferenyl/claudeplugins) - my collection of claude plugins.
+- [droverstatus](https://github.com/ferenyl/droverstatus) - dashboard for drover skill in my claude plugins.
+- [zellij-claude](https://github.com/ferenyl/zellij-claude) overview of claude sessions in zellij
 ---
 
 > “Building quietly, learning constantly.”
