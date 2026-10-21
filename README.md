@@ -12,18 +12,18 @@ Specializing in .NET and building solutions that make life easier—both at work
 ---
 
 ### 📦 Selected Projects
-- [SwedishTestSsn](https://github.com/ferenyl/SwedishTestSsn) – Get swedish test ssn (Dotnet)
-- [swedish_test_ssn](https://github.com/ferenyl/swedish_test_ssn) – Get swedish test ssn (rust)
-- [homeassistant_addons](https://github.com/ferenyl/homeassistant_addons) – Custom add-ons for Home Assistant
-- [homeassistant-integration-goxlr-utility)](https://github.com/ferenyl/homeassistant-integration-goxlr-utility) - integration for goxlrutil in homeassistant
-- [goxlrutil api wrapper](https://github.com/ferenyl/goxlrutil_api)
-- [Teams.ThirdPartyAppApi](https://github.com/ferenyl/Teams.ThirdPartyAppApi) – API integrations for Teams third-party apps (Dotnet)
-- [LittleHelpers](https://github.com/ferenyl/LittleHelpers) - a projekt to get your kids to help with chores. simple gamification
-- [azuredevopstui](https://github.com/ferenyl/azuredevopstui) - a tui for azure devops
-- [simplepackageinstaller](https://github.com/ferenyl/simplepackageinstaller) - tui installer for arch packages.
-- [claudeplugins](https://github.com/ferenyl/claudeplugins) - my collection of claude plugins.
-- [droverstatus](https://github.com/ferenyl/droverstatus) - dashboard for drover skill in my claude plugins.
-- [zellij-claude](https://github.com/ferenyl/zellij-claude) overview of claude sessions in zellij
+- [SwedishTestSsn](https://github.com/ferenyl/SwedishTestSsn) – .NET tool (swetestssn) that fetches Swedish test personal identity numbers from Skatteverket's open API, with regex filtering and JSON output.
+- [swedish_test_ssn](https://github.com/ferenyl/swedish_test_ssn) – Rust CLI that fetches Swedish test personal identity numbers from Skatteverket's open API, with regex filtering and JSON output.
+- [azuredevopstui](https://github.com/ferenyl/azuredevopstui) – Terminal UI for Azure DevOps: your PRs, work items, reviews, sprint and pipelines in one keyboard-driven screen.
+- [simplepackageinstaller](https://github.com/ferenyl/simplepackageinstaller) – TUI that sets up an Arch Linux machine from one YAML file: pacman, AUR, Flatpak, npm, cargo, uv, dotnet, services and scripts.
+- [Teams.ThirdPartyAppApi](https://github.com/ferenyl/Teams.ThirdPartyAppApi) – .NET library for the Microsoft Teams third-party app API. Control Teams meetings from code, e.g. toggle mute.
+- [LittleHelpers](https://github.com/ferenyl/LittleHelpers) – Family chore app where kids earn points towards their monthly allowance. .NET Aspire, ASP.NET Core and Angular.
+- [homeassistant_addons](https://github.com/ferenyl/homeassistant_addons) – Home Assistant add-on repository. Includes Zensical, a documentation site generator for local folders and Git repos.
+- [homeassistant-integration-goxlr-utility](https://github.com/ferenyl/homeassistant-integration-goxlr-utility) – Home Assistant integration (HACS) for GoXLR Utility: volume, mute, profiles, routing and lighting.
+- [goxlrutil_api](https://github.com/ferenyl/goxlrutil_api) – Async Python library for the GoXLR Utility daemon over Unix socket, HTTP or WebSocket, with typed models and live state.
+- [claudeplugins](https://github.com/ferenyl/claudeplugins) – Claude Code plugin marketplace with ferenyl-claude, whose drover skill orchestrates multiple Claude agents in Zellij.
+- [droverstatus](https://github.com/ferenyl/droverstatus) – Local web UI for drover: live view and control of Claude agents, tasks and messages.
+- [zellij-claude](https://github.com/ferenyl/zellij-claude) – Zellij plugin that shows every running Claude Code session and whether it is working, waiting or idle.
 ---
 
 > “Building quietly, learning constantly.”
